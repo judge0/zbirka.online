@@ -1,1 +1,1 @@
-# Zbirka Online Errata
+# Zbirka Online
