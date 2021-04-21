@@ -1,0 +1,1 @@
+gcc -std=c11 -Wall -pedantic-errors -o main.o $1
