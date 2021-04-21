@@ -1,3 +1,9 @@
+/**
+ * Zadatak: Za uneseni kut u radijanima ispišite njegov sinus. Sinus kuta
+ * izračunajte koristeći parcijalnu sumu Maclaurinov reda. Optimizirajte
+ * računanje potencija broja x i faktorijela.
+ **/
+
 #include <stdio.h>
 
 #define MAX_ITERS 20

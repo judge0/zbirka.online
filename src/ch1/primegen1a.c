@@ -1,3 +1,9 @@
+/**
+ * Zadatak: Za unesen interval opisan prirodnim brojevima begin i end,
+ * konstruirajte broj n = p_1 * p_2 * ... * p_k + 1, gdje su p_i prosti
+ * brojevi iz intervala [begin, end>. Provjerite je li broj n prost.
+ **/
+
 #include <stdbool.h>
 #include <stdio.h>
 

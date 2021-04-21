@@ -1,3 +1,8 @@
+/**
+ * Zadatak: Programski kôd prethodnog poglavlja, prime1a.c, refaktorirajte
+ * koristeći funkcije.
+ * */
+
 #include <stdbool.h>
 #include <stdio.h>
 

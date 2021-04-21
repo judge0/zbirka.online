@@ -1,3 +1,7 @@
+/**
+ * Zadatak: Za uneseni prirodan broj n, provjerte je li prost.
+ **/
+
 #include <stdbool.h>
 #include <stdio.h>
 
