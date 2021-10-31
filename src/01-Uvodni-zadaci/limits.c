@@ -14,5 +14,6 @@ int main() {
 
   printf("Najmanji pozitivni long double: %Le\n", LDBL_TRUE_MIN);
   printf("Najveci  pozitivni long double: %Le\n\n", LDBL_MAX);
+
   return 0;
 }
